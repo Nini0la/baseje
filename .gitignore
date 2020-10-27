@@ -1,0 +1,9 @@
+# Project files
+/env
+
+/**/__pycache__
+
+# Project data
+/data
+PennFudanPed.zip
+PAScode.tar.gz
